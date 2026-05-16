@@ -68,7 +68,7 @@ corporations, governments, and hackers from logging, storing or selling your per
 	- [Task Management](#task-management) (1)
 	- [Backup and Sync](#backup-and-sync) (4)
 	- [Cloud Productivity Suites](#cloud-productivity-suites) (5)
-	- [Encrypted Cloud Storage](#encrypted-cloud-storage) (7)
+	- [Encrypted Cloud Storage](#encrypted-cloud-storage) (6)
 	- [Secret Sharing](#secret-sharing) (3)
 	- [File Drop](#file-drop) (2)
 	- [Browser Sync](#browser-sync) (4)
@@ -79,7 +79,7 @@ corporations, governments, and hackers from logging, storing or selling your per
 	- [Metadata Removal](#metadata-removal) (3)
 	- [Data Erasers](#data-erasers) (8)
 - **Operating Systems**
-	- [Mobile Operating Systems](#mobile-operating-systems) (4)
+	- [Mobile Operating Systems](#mobile-operating-systems) (3)
 	- [Desktop Operating Systems](#desktop-operating-systems) (5)
 	- [Linux Defenses](#linux-defenses) (6)
 	- [Windows Defences](#windows-defences) (17)
@@ -95,7 +95,7 @@ corporations, governments, and hackers from logging, storing or selling your per
 	- [Crypto Exchanges](#crypto-exchanges) (2)
 	- [Virtual Credit Cards](#virtual-credit-cards) (2)
 	- [Other Payment Methods](#other-payment-methods) (3)
-	- [Secure Budgeting](#secure-budgeting) (5)
+	- [Secure Budgeting](#secure-budgeting) (6)
 - **Social**
 	- [Social Networks](#social-networks) (4)
 	- [Video Platforms](#video-platforms) (2)
@@ -103,7 +103,7 @@ corporations, governments, and hackers from logging, storing or selling your per
 	- [News Readers](#news-readers) (1)
 	- [Proxy Sites](#proxy-sites) (4)
 - **Media**
-	- [File Converters](#file-converters) (1)
+	- [File Converters](#file-converters) (2)
 - **Creativity**
 	- [Image Editors](#image-editors) (8)
 	- [Video Editors](#video-editors) (7)
@@ -253,8 +253,8 @@ that makes a good alternative to BitLocker.
 
 - **[<img src='https://signal.org/assets/images/favicon/android-chrome-192x192.png' width='14' alt='' /> Signal](https://signal.org)** - Probably one of the most popular, secure private messaging apps that combines strong encryption (see [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol)) with a simple UI and plenty of features. It's widely used across the world, and ea[…](https://awesome-privacy.xyz/communication/encrypted-messaging/signal "View full Signal report") 
 - **[<img src='https://getsession.org/favicon.ico' width='14' alt='' /> Session](https://getsession.org)** - Session is a fork of Signal, however unlike Signal it does not require a mobile number (or any other personal data) to register, instead each user is identified by a public key. It is also decentraliz[…](https://awesome-privacy.xyz/communication/encrypted-messaging/session "View full Session report") 
-- **[<img src='https://github.com/simplex-chat/simplex-chat/blob/stable/media-logos/simplex-symbol-light.png' width='14' alt='' /> SimpleX](https://simplex.chat/)** - Simplex is gaining popularity as a secure and private messaging app renowned for its robust encryption protocol without user IDs or phone numbers and this improves your privacy. Simplex offers instant[…](https://awesome-privacy.xyz/communication/encrypted-messaging/simplex "View full SimpleX report") 
-- **[<img src='https://xmpp.org/favicon.ico' width='14' alt='' /> XMPP](https://xmpp.org)** - XMPP, also known as Jabber, is an open standard for decentralized messaging that has been widely used for decades. It has actually been the basis upon which WhatsApp, Facebook's Chat and Google's Talk[…](https://awesome-privacy.xyz/communication/encrypted-messaging/xmpp "View full XMPP report") 
+- **[<img src='https://simplex.chat/img/new/logo-symbol-light.svg' width='14' alt='' /> SimpleX](https://simplex.chat/)** - Simplex is gaining popularity as a secure and private messaging app renowned for its robust encryption protocol without user IDs or phone numbers and this improves your privacy. Simplex offers instant[…](https://awesome-privacy.xyz/communication/encrypted-messaging/simplex "View full SimpleX report") 
+- **[<img src='https://xmpp.org/apple-touch-icon.png' width='14' alt='' /> XMPP](https://xmpp.org)** - XMPP, also known as Jabber, is an open standard for decentralized messaging that has been widely used for decades. It has actually been the basis upon which WhatsApp, Facebook's Chat and Google's Talk[…](https://awesome-privacy.xyz/communication/encrypted-messaging/xmpp "View full XMPP report") 
 - **[<img src='https://matrix.org/assets/favicon.ico' width='14' alt='' /> Matrix](https://matrix.org)** - Matrix is a decentralized open network for secure communications, with E2E encryption with Olm and Megolm. Along with the [Element](https://element.io/) client, it supports VOIP + video calling and IM + group chats. Since M[…](https://awesome-privacy.xyz/communication/encrypted-messaging/matrix "View full Matrix report") 
 
 <details>
@@ -1145,7 +1145,6 @@ It is recommended to encrypt files on your client machine, before syncing to the
 
 - **[<img src='https://icon.horse/icon/tresorit.com' width='14' alt='' /> Tresorit](https://tresorit.com)** - End-to-end encrypted zero knowledge file storage, syncing and sharing provider, based in Switzerland. The app is cross-platform, user-friendly client and with all expected features. £6.49/month for 50[…](https://awesome-privacy.xyz/productivity/encrypted-cloud-storage/tresorit "View full Tresorit report") 
 - **[<img src='https://icon.horse/icon/icedrive.net' width='14' alt='' /> IceDrive](https://icedrive.net)** - Very affordable encrypted storage provider, with cross-platform apps. Starts as £1.50/month for 150 GB or £3.33/month for 1 TB. 
-- **[<img src='https://icon.horse/icon/www.sync.com' width='14' alt='' /> Sync.com](https://www.sync.com)** - Secure file sync, sharing, collaboration and backup for individuals, small businesses and sole practitioners. Starts at $8/month for 2 TB. 
 - **[<img src='https://icon.horse/icon/peergos.org' width='14' alt='' /> Peergos](https://peergos.org/)** - A peer-to-peer end-to-end encrypted global filesystem with fine grained access control. Provides a secure and private space online where you can store, share and view your photos, videos, music and do[…](https://awesome-privacy.xyz/productivity/encrypted-cloud-storage/peergos "View full Peergos report") 
 - **[<img src='https://internxt.com/favicon.ico' width='14' alt='' /> Internxt](https://internxt.com/)** - Store your files in total privacy. Internxt Drive is a zero-knowledge cloud storage service based on best-in-class privacy and security. Made in Spain. Open-source mobile and desktop apps. 10GB FREE a[…](https://awesome-privacy.xyz/productivity/encrypted-cloud-storage/internxt "View full Internxt report") 
 - **[<img src='https://icon.horse/icon/filen.io' width='14' alt='' /> FileN](https://filen.io/)** - Zero knowledge end-to-end encrypted affordable cloud storage made in Germany. Open-source mobile and desktop apps. 10GB FREE with paid plans starting at €0.92/month for 100GB. 
@@ -1414,7 +1413,6 @@ A [custom ROM](https://en.wikipedia.org/wiki/List_of_custom_Android_distribution
 is an open source, usually Google-free mobile OS that can be flashed to your device.
 
 - **[<img src='https://grapheneos.org/apple-touch-icon.png' width='14' alt='' /> GrapheneOS](https://grapheneos.org/)** - GrapheneOS is an open source privacy and security focused mobile OS with Android app compatibility. Developed by Daniel Micay. GrapheneOS is a young project, and currently only supports Pixel devices,[…](https://awesome-privacy.xyz/operating-systems/mobile-operating-systems/grapheneos "View full GrapheneOS report") 
-- **[<img src='https://calyxos.org/assets/images/favicon/apple-touch-icon.png' width='14' alt='' /> CalyxOS](https://calyxos.org)** - CalyxOS is an free and open source Android mobile operating system that puts privacy and security into the hands of everyday users. Plus, proactive security recommendations and automatic updates take[…](https://awesome-privacy.xyz/operating-systems/mobile-operating-systems/calyxos "View full CalyxOS report") 
 - **[<img src='https://www.lineageos.org/images/logo.png' width='14' alt='' /> LineageOS](https://www.lineageos.org)** - A free and open-source operating system for various devices, based on the Android mobile platform - Lineage is light-weight, well maintained, supports a wide range of devices, and comes bundled with P[…](https://awesome-privacy.xyz/operating-systems/mobile-operating-systems/lineageos "View full LineageOS report") 
 - **[<img src='https://axpos.org/favicon.svg' width='14' alt='' /> AXP.OS](https://axpos.org)** - AXP.OS is an operating system based on AOSP & LineageOS. Emerged from the discontinued [DivestOS](https://divestos-archive.codeberg.page), it aims to prolong the lifespan of discontinued devices, enhance privacy and increase security where po[…](https://awesome-privacy.xyz/operating-systems/mobile-operating-systems/axp.os "View full AXP.OS report") 
 
@@ -1953,6 +1951,7 @@ crypto currency or cash, since neither can be easily tied back to your identity.
 - **[<img src='https://icon.horse/icon/plaintextaccounting.org' width='14' alt='' /> Plain Text Accounting](https://plaintextaccounting.org)** - Utilizes plain text files and scriptable, command-line-friendly software for bookkeeping/accounting, offering full control over data. Popular tools include Ledger, hledger, and Beancount among others,[…](https://awesome-privacy.xyz/finance/secure-budgeting/plain-text-accounting "View full Plain Text Accounting report") 
 - **[<img src='https://raw.githubusercontent.com/mayswind/ezbookkeeping/refs/heads/main/public/img/ezbookkeeping-512.png' width='14' alt='' /> ezBookkeeping](https://ezbookkeeping.mayswind.net/)** - A lightweight, self-hosted personal finance app for recording daily transactions and analyzing spending patterns. Self-hosted, with all data staying on your own server. Supports 2FA and OICD. 
 - **[<img src='https://raw.githubusercontent.com/actualbudget/actual/a2267c480647bf01f1cae302292a8a237846124c/packages/desktop-electron/icons/icon.png' width='14' alt='' /> Actual](https://actualbudget.org/)** - A local-first personal finance app 
+- **[<img src='https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/assets/logo2.png' width='14' alt='' /> BeeCount](https://beecount-website.pages.dev)** - Privacy-first cross-platform personal expense tracker (Android/iOS/Web) with offline-first design. Multi-cloud sync options — self-hosted BeeCount Cloud, iCloud, Supabase, WebDAV or S3 — keep data und[…](https://awesome-privacy.xyz/finance/secure-budgeting/beecount "View full BeeCount report") 
 
 <details>
 <summary>✳️ <b>Notable Mentions</b></summary>
@@ -2199,6 +2198,7 @@ TikTok, and more.*
 ### File Converters
 
 - **[<img src='https://ffmpeg.org/favicon.ico' width='14' alt='' /> FFmpeg](https://ffmpeg.org/)** - A complete, cross-platform solution to record, convert, and stream audio and video. It's the industry standard multimedia framework, handling a vast range of formats. As a command-line tool, it guaran[…](https://awesome-privacy.xyz/media/file-converters/ffmpeg "View full FFmpeg report") 
+- **[<img src='https://vert.sh/lettermark.jpg' width='14' alt='' /> VERT](https://vert.sh)** - Web-based file conversion utility, which runs locally on your device using WebAssembly. Supports 250+ formats across images, audio, documents, and video. 
 
 <p align="right"><sup><a href="#top">⬆️ [Back to Top]</a></sub></p>
 
