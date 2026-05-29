@@ -3713,7 +3713,7 @@ categories:
         - Python: [Piexif](https://github.com/hMatoba/Piexif) by @hMatoba
         - Ruby: [Exif](https://github.com/tonytonyjan/exif) by @tonytonyjan
         - PHP: [Pel](https://github.com/pel/pel) by @mgeisler
-
+        For a browser-based option, [MetadataRemove](https://metadataremove.app) can strip metadata from photos, PDFs, Office documents, video, and audio files locally — no uploads required. Also includes a [file metadata privacy checklist](https://metadataremove.app/file-metadata-privacy-checklist). Note: not open source.
     ##########################
     ###### Data Erasers ######
     ##########################
